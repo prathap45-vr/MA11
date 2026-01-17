@@ -1,1 +1,2 @@
 this is a B framework
+this is automation 
